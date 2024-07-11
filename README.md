@@ -1,1 +1,1 @@
-# 심재람's mybatis_review1_workspace
+# mybatis_review1_workspace
